@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Profile Searcher</title>
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="loading.css">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <!-- nav bar -->
+    <nav class="flex">
+        <div class="logo">
+            <i class="fa-brands fa-github-alt"></i>
+        </div>
+        <header>
+            Search Your <span>Github</span> Profile
+        </header>
+        <div class="dark-mode-icon flex">
+            <i class="fa-solid fa-moon"></i>
+        </div>
+    </nav>
+
+    <!-- search bar -->
+    <section class="search-bar flex">
+        <input type="text" placeholder="Enter your github user-name" id="input-box">
+        <i class="fa-solid fa-search" id="search-btn"></i>
+    </section>
+
+    <!-- loading animation -->
+    <section class="loading-spinner">
+        <div class="loadingio-spinner-spinner-yqbbn98dnu">
+            <div class="ldio-v4wrbcr69kd">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </section>
+ 
+    <!-- user profile -->
+    <section class="container flex">
+        <div class="profile flex">
+            <!-- back btn -->
+            <div class="back-btn">
+                <i class="fa-solid fa-arrow-left"></i>
+            </div>
+            <!-- open profile btn -->
+            <a class="open-profile" target="_blank">
+                <i class="fa-sharp fa-solid fa-up-right-from-square"></i>
+            </a>
+           
+            <div class="user-details flex">
+                <div class="user-img">
+                    <img src="" alt="userImg">
+                </div>
+                <div class="name">
+                    <h2></h2>
+                </div>
+                <div class="user-name">
+                    <h2></h2>
+                </div>
+                <div class="bio">
+                    <p></p>
+                </div>
+                <button id="edit-profile-btn">Edit profile</button>
+                <div class="followers">
+                    <a><i class="fa-regular fa-user"></i> <span id="followers"></span> Followers</a>
+                    • <a><span id="following"></span> Following</a> • <a><span id="repo"></span> repo</a>
+                </div>
+            </div>
+        </div>
+        <section class="main-section flex">
+            <div class="btn-container flex">
+                <button class="btn-active">repository</button>
+                <button>followers</button>
+                <button>following</button>
+            </div>
+            <!-- repository section -->
+            <div class="repository-container flex"></div>
+
+            <!-- followers section -->
+            <section class="followers-section"></section>
+
+            <!-- following section -->
+            <section class="following-section"></section>
+        </section>
+    </section>
+ 
+</body>
+<script src="./script.js"></script>
+
+</html>
