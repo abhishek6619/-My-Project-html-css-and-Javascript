@@ -6,6 +6,4 @@
 - Animated profile card with social media.
 - With a beautiful minimalist interface.
 
-
-
-![preview img](/output.png)
+![output img](/output.png)
