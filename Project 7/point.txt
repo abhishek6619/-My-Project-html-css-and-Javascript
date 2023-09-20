@@ -1,0 +1,192 @@
+    <!--===== About Section End =====-->
+    <!--===== Services Section Start =====-->
+    <!-- <section class="service-section section-padding" id="services">
+        <div class="container">
+            <div class="row">
+                <div class="section-title text-align">
+                    <h5 class="sub-title">services</h5>
+                    <h3 class="main-title">Services I Provide</h3>
+                    <ul class="line">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div> ===== Section Title ===== -->
+    <!-- </div>
+            <div class="row"> -->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <h3>Responsive design</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-laptop-code"></i>
+                        </div>
+                        <h3>web design</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-palette"></i>
+                        </div>
+                        <h3>Graphic design</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-code"></i>
+                        </div>
+                        <h3>Clean Code</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-search"></i>
+                        </div>
+                        <h3>seo marketing</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!--===== Service Item Start =====-->
+    <!-- <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-bullhorn"></i>
+                        </div>
+                        <h3>great support</h3>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe ipsam aliquam
+
+                            ratione, possimus et! Doloremque!</p>
+                    </div>
+                </div> -->
+    <!--===== Service Item End =====-->
+    <!-- </div>
+        </div>
+    </section> -->
+    <!--===== Services Section End =====-->
+
+
+<!--===== Pricing Section Start =====-->
+    <!-- <section class="pricing section-padding" id="pricing"> -->
+    <!-- <div class="container">
+            <div class="row">
+                <div class="section-title text-align">
+                    <h5 class="sub-title">pricing</h5>
+                    <h3 class="main-title">pricing plans</h3>
+                    <ul class="line">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div> ===== Section Title ===== -->
+    <!-- </div>
+            <div class="row justify-content-center">
+                <div class="pricing-item">
+                    <div class="pricing-plan">
+                        <div class="pricing-header">
+                            <h3>basic</h3>
+                        </div>
+                        <div class="pricing-price">
+                            <span class="currency">$</span>
+                            <span class="price">99</span>
+                            <span class="period">/monthly</span>
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li><i class="fa fa-check"></i> 5 GB BandWidth </li>
+                                <li><i class="fa fa-check"></i> Free Update </li>
+                                <li><i class="fa fa-check"></i> High Regulation Printing </li>
+                                <li><i class="fa fa-check"></i> Branding </li>
+                                <li><i class="fa fa-check"></i> Another Great Features </li>
+                            </ul>
+                        </div>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn-2">get started</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="pricing-item">
+                    <div class="pricing-plan">
+                        <div class="pricing-header">
+                            <h3>premium</h3>
+                            <h2 class="best-value">best value</h2>
+                        </div>
+                        <div class="pricing-price">
+                            <span class="currency">$</span>
+                            <span class="price">199</span>
+                            <span class="period">/monthly</span>
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li><i class="fa fa-check"></i> 5 GB BandWidth </li>
+                                <li><i class="fa fa-check"></i> Free Update </li>
+                                <li><i class="fa fa-check"></i> High Regulation Printing </li>
+                                <li><i class="fa fa-check"></i> Branding </li>
+                                <li><i class="fa fa-check"></i> Another Great Features </li>
+                            </ul>
+                        </div>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn-1">get started</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="pricing-item">
+                    <div class="pricing-plan">
+                        <div class="pricing-header">
+                            <h3>ultimate</h3>
+                        </div>
+                        <div class="pricing-price">
+                            <span class="currency">$</span>
+                            <span class="price">299</span>
+                            <span class="period">/monthly</span>
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li><i class="fa fa-check"></i> 5 GB BandWidth </li>
+                                <li><i class="fa fa-check"></i> Free Update </li>
+                                <li><i class="fa fa-check"></i> High Regulation Printing </li>
+                                <li><i class="fa fa-check"></i> Branding </li>
+                                <li><i class="fa fa-check"></i> Another Great Features </li>
+                            </ul>
+                        </div>
+                        <div class="pricing-footer">
+                            <a href="#" class="btn-2">get started</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!--===== Pricing Section End =====-->    
